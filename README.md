@@ -1,4 +1,8 @@
 # ag-alpine
+
+![Docker Automated build](https://img.shields.io/docker/automated/ketouem/ag-alpine.svg)
+![Docker Build Status](https://img.shields.io/docker/build/ketouem/ag-alpine.svg)
+
 Alpine based container that provides a build of [the silver searcher](https://github.com/ggreer/the_silver_searcher)
 
 ## Building
