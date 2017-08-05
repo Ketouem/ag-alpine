@@ -13,6 +13,10 @@ The built version can be chosen through a variable `AG_VERSION` that is passed t
 
 Example: `AG_VERSION=1.0.3 make build`
 
+## Testing the installation
+
+Invoke `make test` to assert the presence of `ag` and the installed version.
+
 ## Using `ag`
 
 Mount the folder you want to search in as a volume beforehand:
